@@ -12,7 +12,7 @@
 
 **Block Reward (PoW):** 100 coins
 
-**Block Reward (PoS):** 20 coins
+**Block Reward (PoS):** 20 coins minus 20% for development so actaul rewards is 16 per block
 
 **Last PoW Block:** Block 10,000,000
 
