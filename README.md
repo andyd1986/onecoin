@@ -47,3 +47,5 @@ Onecoin boasts a rapid block generation time with a target spacing of 3 minutes,
 To guarantee the security of transactions, Onecoin requires 5 block confirmations, providing users with confidence in the integrity of their digital assets.
 
 In summary, Onecoin presents itself as a robust and innovative cryptocurrency, combining Scrypt PoW and PoS algorithms to create a secure, efficient, and environmentally conscious blockchain network.# onecoin
+
+POS rewards 16 coins per block 4 go to development
