@@ -49,3 +49,7 @@ To guarantee the security of transactions, Onecoin requires 5 block confirmation
 In summary, Onecoin presents itself as a robust and innovative cryptocurrency, combining Scrypt PoW and PoS algorithms to create a secure, efficient, and environmentally conscious blockchain network.# onecoin
 
 POS rewards 16 coins per block 4 go to development
+
+Discord invite link: https://discord.com/invite/vftdYqf3
+
+Telegram invite link: https://t.me/+-8Z7QQEc-rYxOWNk
