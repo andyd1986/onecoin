@@ -63,3 +63,5 @@ Blockchain-explorer: http://81.0.221.16:3001/
 Twitter-X link: https://twitter.com/onecn2020
 
 Whitepaper-link: https://github.com/andyd1986/onecoin/releases/download/v1.0.0/onecoin-whitepaper.rtf
+
+Bitcointalk: https://bitcointalk.org/index.php?topic=5484201.0
