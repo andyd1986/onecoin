@@ -54,7 +54,7 @@ website-for-now
 
 Link: https://onecoin.webadorsite.com
 
-Discord invite link: https://discord.com/invite/vftdYqf3
+Discord invite link: https://discord.gg/invite/mYvxebE4SB
 
 Telegram invite link: https://t.me/+-8Z7QQEc-rYxOWNk
 
