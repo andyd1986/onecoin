@@ -62,6 +62,8 @@ Telegram invite link: https://t.me/+-8Z7QQEc-rYxOWNk
 
 Blockchain-explorer: http://81.0.221.16:3001/
 
+Link: https://youronecoin.uk
+
 Twitter-X link: https://twitter.com/onecn2020
 
 Whitepaper-link: https://github.com/andyd1986/onecoin/releases/download/v1.0.0/onecoin-whitepaper.rtf
