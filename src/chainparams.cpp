@@ -159,6 +159,10 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0x2b429a24e6405b4dfb26c9fd81f6d79a3edc8452aba8d17aab9dcb386bf44baa"));
 
         vSeeds.push_back(CDNSSeedData("walletbuilders.com", "node3.walletbuilders.com"));
+	vSeeds.push_back(CDNSSeedData("81.0.221.16", "81.0.221.16")); //explorer
+	vSeeds.push_back(CDNSSeedData("79.77.62.111", "79.77.62.111")); //yourpool.uk
+	vSeeds.push_back(CDNSSeedData("5.189.187.165", "5.189.187.165")); //bot
+	vSeeds.push_back(CDNSSeedData("81.0.218.249", "81.0.218.249")); //yoursolo.uk
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,0);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,1);
@@ -177,11 +181,12 @@ public:
 
         checkpointData = (CCheckpointData) {
                     boost::assign::map_list_of
-                    (0, uint256S("0x000005b7bddaa0aa2c395a9d91dd59c70b4f67739777e47c36a34a3e2b1ba568")),
-                    1706221030, // * UNIX timestamp of last checkpoint block
-                    0,    // * total number of transactions between genesis and last checkpoint
+                    (0, uint256S("0x000005b7bddaa0aa2c395a9d91dd59c70b4f67739777e47c36a34a3e2b1ba568"))
+                    (28245, uint256S("c8a0aa96e19a1d5bd1be0d98c5ea7e24aedc3c8f53e8f97cf2e6984443b98d42")),//milestone-checkpoint
+                    1709059127,
+                    47369,    // * total number of transactions between genesis and last checkpoint
                                 //   (the tx=... number in the SetBestChain debug.log lines)
-                    0      // * estimated number of transactions per day after checkpoint
+                    3000.0      // * estimated number of transactions per day after checkpoint
         };
 
         // A vector of p2sh addresses
