@@ -60,7 +60,7 @@ Discord invite link: https://discord.gg/invite/mYvxebE4SB
 
 Telegram invite link: https://t.me/+-8Z7QQEc-rYxOWNk
 
-Blockchain-explorer: http://81.0.221.16:3001/
+Blockchain-explorer: http://158.220.94.214:3001/
 
 Link: https://youronecoin.uk
 
