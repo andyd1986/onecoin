@@ -50,19 +50,13 @@ In summary, Onecoin presents itself as a robust and innovative cryptocurrency, c
 
 POS rewards 16 coins per block 4 go to development
 
-website-for-now
-
-Link: https://onecoin.webadorsite.com
-
-Link: https://onecoin.org.uk/
+website: http://5.189.187.165/
 
 Discord invite link: https://discord.gg/invite/mYvxebE4SB
 
 Telegram invite link: https://t.me/+-8Z7QQEc-rYxOWNk
 
 Blockchain-explorer: http://158.220.94.214:3001/
-
-Link: https://youronecoin.uk
 
 Twitter-X link: https://twitter.com/onecn2020
 
